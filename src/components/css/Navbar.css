@@ -1,0 +1,13 @@
+.links{
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 8px;
+    color:  #FFFFF6;
+    text-decoration: none;
+}
+.logout{
+    font-size: 16px;
+    background-color: transparent;
+    border: none;
+    color:  #FFFFF6;
+}

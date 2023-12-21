@@ -1,0 +1,29 @@
+.signup-container{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.signup-form{
+    width: 25%;
+    height: 500px;
+}
+.signup-form form input{
+    width: 100%;
+    height: 55px;
+    outline: none;
+    outline: 1px solid black;
+    border-radius: 3px;
+    background-color: #ffffff; 
+}
+.signup-form form label{
+    font-size: 14px;
+    font-weight: 500;
+}
+.signup-form form button{
+    width: 100%;
+    height: 55px;
+    border-radius: 24px;
+    font-weight: 500;
+}
