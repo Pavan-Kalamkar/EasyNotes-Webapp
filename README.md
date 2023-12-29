@@ -1,5 +1,5 @@
 # EasyNotes
-EasyNotes is the react js based client - server web application.
+EasyNotes is the ( MERN Stack ) based client - server web application.
 It enables user to creates notes, save notes , and also manipulates
 their notes with their specific user accounts. It efficient to use as well as secure, user can easily creates their accounts and ready to use the easynotes.
 
